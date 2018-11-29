@@ -24,6 +24,16 @@ As a multi-paradigm language, JavaScript supports event-driven, functional, and 
     Step 5: Change directory to the one containing your javascript code
     Step 6: Type >node hello_world.js (node file_name.js) to run the file
 
+
+# Did You Know?
+
+JavaScript and Java are completely different languages, both in concept and design.
+
+JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+ECMA-262 is the official name of the standard. ECMAScript is the official name of the language. 
+
+The similarity between: Java and Javascript is like between: Car and Carpet
+i.e., absolutely nothing !!
  
  # HTML + CSS + Javascript = Frontend Development
  
