@@ -22,3 +22,4 @@ As a multi-paradigm language, JavaScript supports event-driven, functional, and 
     Step 5: Change directory to the one containing your javascript code
     Step 6: Type >node hello_world.js (node file_name.js) to run the file
     
+![](https://cdn-images-1.medium.com/max/1600/1*vAggmzG1t1RpXK72ENQ6AA.gif)
